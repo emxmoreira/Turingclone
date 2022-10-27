@@ -8,6 +8,11 @@
 
 }
 
+
+
+
+
+
 .navbar div {
     font-size: 40px;
 }
@@ -25,7 +30,7 @@
 header a {
     text-decoration: none;
     color: black;
-    margin-left: 850px;
+    margin-left: 600px;
     margin-right: 20px;
 
 
@@ -103,7 +108,7 @@ h6 {
 .section2 {
     background-image: url("./world\ 2.jpg");
     color: white;
-    width: 1700px;
+    width: 1200px;
     height: 700px;
     margin-left: 100px;
 
@@ -163,3 +168,9 @@ h6 {
 .col-6 {
     font-size: 20px;
 }
+
+
+.Carder {
+    display: flex;
+    margin-left: 110px;
+    padding: 30px;
